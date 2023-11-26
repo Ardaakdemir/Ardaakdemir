@@ -25,9 +25,9 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ardaakdemir&show_icons=true&locale=en" alt="ardaakdemir" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaakdemir&show_icons=true&locale=en&layout=compact" alt="ardaakdemir" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardaakdemir&" alt="ardaakdemir" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaakdemir&show_icons=true&locale=en&layout=compact" alt="ardaakdemir" /></p>
 
 <h3 align="left">If You Want To Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kregai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kregai" /></a></p><br><br>
