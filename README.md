@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for a job **on Game Industry**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/Ardaakdemir](https://linktr.ee/Ardaakdemir)
+- 👨‍💻 All of my projects are available at [Ardaakdemir](https://linktr.ee/Ardaakdemir)
 
 - 📫 How to reach me **ardakdmrb@gmail.com**
 
