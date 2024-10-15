@@ -1,6 +1,6 @@
 ![MasterHead](https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv)
 <h1 align="center">Greetings 👋, I'm Arda Akdemir</h1>
-<h3 align="center">A passionate Game Developer & Designer From Turkey/Istanbul</h3>
+<h3 align="center">A passionate Computer Engineer From Turkey/Istanbul</h3>
 
 - 🔭 I’m currently working on **Unity**
 
