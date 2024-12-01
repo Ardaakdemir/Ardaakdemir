@@ -2,13 +2,13 @@
 <h1 align="center">Greetings 👋, I'm Arda Akdemir</h1>
 <h3 align="center">A passionate Computer Engineer From Turkey/Istanbul</h3>
 
-- 🔭 I’m currently working on **Unity**
-
 - 🤝 I’m looking for a job **on IT Industry**
 
 - 👨‍💻 All of my projects are available at [Ardaakdemir](https://linktr.ee/Ardaakdemir)
 
 - 📫 How to reach me **ardakdmrb@gmail.com**
+
+- 🔭 I’m currently working on **Unity**
 
 - ⚡ Fun fact **I like drawing**
 - 
