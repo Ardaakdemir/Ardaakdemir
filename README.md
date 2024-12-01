@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **Unity**
 
-- 👯 I’m looking to collaborate on **Hyper Casual Games**
-
-- 🤝 I’m looking for a job **on Game Industry**
+- 🤝 I’m looking for a job **on IT Industry**
 
 - 👨‍💻 All of my projects are available at [Ardaakdemir](https://linktr.ee/Ardaakdemir)
 
